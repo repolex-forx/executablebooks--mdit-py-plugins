@@ -395,7 +395,9 @@
           "githubUrl": "https://github.com/executablebooks/sphinx-book-theme",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/93fbf645108394bb10ecd392383e96c4e8902f30/chunk-001.nq.gz",
+      "dep": "dep/93fbf645108394bb10ecd392383e96c4e8902f30.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
