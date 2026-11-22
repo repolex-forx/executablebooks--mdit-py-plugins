@@ -304,6 +304,97 @@
       ],
       "ast": [
         "aggregate/ast/93fbf645108394bb10ecd392383e96c4e8902f30/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/93fbf645108394bb10ecd392383e96c4e8902f30.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "markdown-it-py",
+          "ecosystem": "PYPI",
+          "version": "2.0.0",
+          "githubOrg": "executablebooks",
+          "githubRepo": "markdown-it-py",
+          "githubCommit": "465b54d79641a3acd1d4e2ff483f1ccf4a4556ff",
+          "githubTag": "v2.0.0",
+          "githubUrl": "https://github.com/executablebooks/markdown-it-py",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pre-commit",
+          "ecosystem": "PYPI",
+          "version": "4.7.0",
+          "githubOrg": "pre-commit",
+          "githubRepo": "pre-commit",
+          "githubCommit": "65bb884a567e8be6adc51e8bfbcf26f708eb35a2",
+          "githubTag": "v4.7.0",
+          "githubUrl": "https://github.com/pre-commit/pre-commit",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "coverage",
+          "ecosystem": "PYPI",
+          "version": "7.17.4",
+          "githubOrg": "coveragepy",
+          "githubRepo": "coveragepy",
+          "githubCommit": "fd8e601e25c1e8dde3440fb019ec08283af1bf78",
+          "githubTag": "7.17.4",
+          "githubUrl": "https://github.com/coveragepy/coveragepy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.2.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "ae1d0ff57b8bd4252da9ade7353523ac0ac73281",
+          "githubTag": "9.2.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "7.1.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "66c8a526b1246b5eb8fb1bc218878131bc628622",
+          "githubTag": "v7.1.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-regressions",
+          "ecosystem": "PYPI",
+          "version": "2.11.0",
+          "githubOrg": "ESSS",
+          "githubRepo": "pytest-regressions",
+          "githubCommit": "ff8c2da9b67192a24a8851c72754394cc4bc5067",
+          "githubTag": "v2.11.0",
+          "githubUrl": "https://github.com/ESSS/pytest-regressions",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "myst-parser",
+          "ecosystem": "PYPI",
+          "version": "5.2.0",
+          "githubOrg": "executablebooks",
+          "githubRepo": "MyST-Parser",
+          "githubCommit": "5137add4d72260c99e0c2e9f9a7c2ff8306ec930",
+          "githubTag": "v5.2.0",
+          "githubUrl": "https://github.com/executablebooks/MyST-Parser",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-book-theme",
+          "ecosystem": "PYPI",
+          "version": "1.4.0",
+          "githubOrg": "executablebooks",
+          "githubRepo": "sphinx-book-theme",
+          "githubCommit": "52c7cbb8072bef0f60687c50d12af8c885251ba1",
+          "githubTag": "v1.4.0",
+          "githubUrl": "https://github.com/executablebooks/sphinx-book-theme",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
